@@ -1,4 +1,3 @@
-import pytest
 
 STUDENT = {
     "reg_no": "TEST-001",
